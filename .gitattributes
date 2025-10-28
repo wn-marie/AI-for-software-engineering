@@ -19,13 +19,13 @@
 # Jupyter notebook files should be treated as binary to avoid line ending issues
 *.ipynb -text
 
-# Image files are binary
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
-*.ico binary
-*.svg binary
+# Image files are binary and tracked with Git LFS
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.ico filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
 
 # PDF files are binary
 *.pdf binary

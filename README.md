@@ -97,6 +97,12 @@ git clone <repository-url>
 cd AI-for-Software-Engineering
 ```
 
+**Note**: This repository uses Git LFS for large image files. If you don't have Git LFS installed:
+```bash
+# Install Git LFS
+git lfs install
+```
+
 2. Install required dependencies:
 ```bash
 pip install tensorflow numpy matplotlib scikit-learn jupyter

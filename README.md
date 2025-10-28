@@ -37,7 +37,7 @@ Demonstrates the effectiveness of AI-powered code completion tools by comparing 
 **Files:**
 - `manual_implementation.py` - Manual implementation of dictionary sorting algorithm
 - `prompt_copilot.py` - AI-assisted implementation using GitHub Copilot
-- `AI-Powered_Code_Completion.png` - Visualization of the comparison
+- ![AI-Powered Code Completion](AI-Powered_code_completion/code_completion.png) - Visualization of the comparison
 
 **Key Features:**
 - Bubble sort algorithm implementation (manual)
@@ -51,8 +51,8 @@ Demonstrates the effectiveness of AI-powered code completion tools by comparing 
 Showcases AI-driven automated testing capabilities for web applications.
 
 **Files:**
-- `invalid_login.png` - Screenshots of invalid login test scenarios
-- `valid_logins.png` - Screenshots of valid login test scenarios
+- ![Invalid Login Test](Automated-testing-with-AI/invalid_login.png) - Screenshots of invalid login test scenarios
+- ![Valid Login Test](Automated-testing-with-AI/valid_logins.png) - Screenshots of valid login test scenarios
 
 **Key Features:**
 - Automated UI testing
@@ -67,7 +67,7 @@ A machine learning model for breast cancer classification using medical imaging 
 
 **Files:**
 - `breast_cancer_classifier.ipynb` - Jupyter notebook with the complete ML pipeline
-- `model_accuracy.png` - Model performance visualization
+- ![Model Accuracy](Predictive-analytics-for-resource-allocation/model_accuracy.png) - Model performance visualization
 - `training_set/` - Training data (791 benign + 321 malignant images)
 - `testing_set/` - Testing data (100 unlabeled images with masks)
 
